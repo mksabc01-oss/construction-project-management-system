@@ -31,11 +31,14 @@ BuildTrack streamlines the coordination of construction projects by providing ro
 - JWT Authentication
 
 ## Project Structure
-├── backend/       # Express server, models, routes
-├── client/        # React frontend
-├── config/        # Configuration files
-├── public/        # Static assets
-└── src/           # Application source code
+
+```text
+├── backend/            # Express server, models, routes
+├── client/             # React frontend
+├── config/             # Configuration files
+├── public/             # Static assets
+└── src/                # Application source code
+```
 
 ## Getting Started
 
