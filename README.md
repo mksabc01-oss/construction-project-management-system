@@ -54,3 +54,7 @@ npm install --legacy-peer-deps
 # Run the development servers
 npm run dev
 ```
+<img width="1350" height="639" alt="Screenshot 2026-07-08 221132" src="https://github.com/user-attachments/assets/4d419b21-be4e-4eb7-9d41-121eb2aff9f3" />
+<img width="1024" height="490" alt="192befe1-c2e7-4c00-850c-8b6e81057500" src="https://github.com/user-attachments/assets/215ecaa9-97f1-4fb7-9f4e-7612beba0fc3" />
+<img width="1345" height="652" alt="Screenshot 2026-07-08 221323" src="https://github.com/user-attachments/assets/73690e65-7bdf-454e-975d-a62f7ed31f92" />
+<img width="1348" height="652" alt="Screenshot 2026-07-08 221055" src="https://github.com/user-attachments/assets/04333973-88b4-4c31-a6ac-5f37f5f45257" />
